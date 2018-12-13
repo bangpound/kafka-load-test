@@ -1,7 +1,7 @@
 # Kafka Loadtest
 ##Requirements
-*Docker
-*Python 2.7 (3.x one day?)
+1.Docker
+2.Python 2.7 (3.x one day?)
 
 ## Setup
 #### Run kafka and zookeeper in a docker container (https://github.com/spotify/docker-kafka)
